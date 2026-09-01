@@ -1,0 +1,33 @@
+{
+  "slug": "smile-first-pediatric-dentistry",
+  "website": "https://smilefirstkids.com",
+  "heroes": [],
+  "people": [
+    {
+      "file": "person-1.jpg",
+      "src": "https://smilefirstkids.com/wp-content/uploads/2025/07/Gabrielle-Fusco-edited-1536x2048.jpg",
+      "w": 1439,
+      "h": 1919
+    },
+    {
+      "file": "person-2.jpg",
+      "src": "https://smilefirstkids.com/wp-content/uploads/2025/07/LR55231-Edit-edited.jpeg",
+      "w": 854,
+      "h": 1138
+    },
+    {
+      "file": "person-3.jpg",
+      "src": "https://smilefirstkids.com/wp-content/uploads/2025/07/LR55258-Edit-edited.jpeg",
+      "w": 854,
+      "h": 1138
+    },
+    {
+      "file": "person-4.jpg",
+      "src": "https://smilefirstkids.com/wp-content/uploads/2025/07/Dr.Erin_-edited.jpg",
+      "w": 324,
+      "h": 432
+    }
+  ],
+  "address": null,
+  "error": null
+}

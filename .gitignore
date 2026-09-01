@@ -1,0 +1,13 @@
+# Credentials — never commit
+email_accounts.txt
+email_accounts.txt.bak-*
+*.session
+.env
+.env.*
+_demo/token_map.json
+
+# Caches
+__pycache__/
+*.pyc
+assets_cache/
+.DS_Store

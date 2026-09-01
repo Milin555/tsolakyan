@@ -1,0 +1,79 @@
+{
+  "_schema": 3,
+  "username": "drtess_tkkaesthetics",
+  "lead_name": "Aesthetics Clinic / Harrow",
+  "website": "https://www.tkkaesthetics.co.uk/",
+  "country": "United Kingdom",
+  "reachable": true,
+  "final_url": "https://www.tkkaesthetics.co.uk/",
+  "name": "TKK Aesthetics",
+  "tagline": "Aesthetics clinic providing treatment for facial rejuvenation, dermal fillers and personalised skin care helping in keeping you looking refreshed and youthful a",
+  "phone": "07484 100676",
+  "email": "drtess@tkkaesthetics.co.uk",
+  "address": "",
+  "services": [
+    "Facial Aesthetics"
+  ],
+  "primary": "#fce4cc",
+  "accent": "#7fccf7",
+  "colour_source": "logo",
+  "logo_file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drtess-tkkaesthetics\\logo.png",
+  "logo_w": 494,
+  "logo_h": 162,
+  "logo_source": "img-logo",
+  "logo_is_dark": false,
+  "logo_alpha": 0.0,
+  "hero_file": "",
+  "hero_w": 0,
+  "hero_h": 0,
+  "photos": [
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drtess-tkkaesthetics\\photo0.jpg",
+      "url": "https://static.wixstatic.com/media/00378c_2ec2af49248146c29ffd4bc0bd9e3493~mv2.jpg/v1/crop/x_2,y_0,w_2998,h_1579/fill/w_600,h_316,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Obagi_Challenge_41_edited.jpg",
+      "w": 600,
+      "h": 316
+    }
+  ],
+  "usable_images": 1,
+  "instagram_used": true,
+  "notes": [
+    "email from lead CSV",
+    "instagram: instagram refuses this profile to anonymous clients (400). Set IG_SESSIONID to read it"
+  ],
+  "segment": "own_site",
+  "scraped_at": "2026-08-22T15:05:14+00:00",
+  "ownership_evidence": [
+    "lead's email domain is this website's domain",
+    "the site publishes the lead's phone number",
+    "the site links to the lead's Instagram account",
+    "domain matches the practice or account name"
+  ],
+  "logo_url": "https://static.wixstatic.com/media/00378c_16e22df74d384567bddea3ac9c96f9f1~mv2.png/v1/fill/w_494,h_162,al_c,lg_1,q_85,enc_avif,quality_auto/TKK%20Aesthetics%20Logo.png",
+  "colour_candidates": [
+    {
+      "hex": "#fce4cc",
+      "weight": 40
+    },
+    {
+      "hex": "#7fccf7",
+      "weight": 2
+    },
+    {
+      "hex": "#3899ec",
+      "weight": 2
+    },
+    {
+      "hex": "#ff4040",
+      "weight": 2
+    },
+    {
+      "hex": "#116dff",
+      "weight": 2
+    },
+    {
+      "hex": "#ff8c62",
+      "weight": 2
+    }
+  ],
+  "instagram_status": "instagram refuses this profile to anonymous clients (400). Set IG_SESSIONID to read it"
+}

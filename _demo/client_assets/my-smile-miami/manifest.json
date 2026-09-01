@@ -1,0 +1,40 @@
+{
+  "slug": "my-smile-miami",
+  "website": "https://www.mysmilemiami.com",
+  "heroes": [
+    {
+      "file": "hero-1.jpg",
+      "src": "https://www.mysmilemiami.com/wp-content/uploads/2026/03/fall-back-image.webp",
+      "w": 1440,
+      "h": 740
+    }
+  ],
+  "people": [
+    {
+      "file": "person-1.jpg",
+      "src": "https://www.mysmilemiami.com/wp-content/uploads/2026/05/gritel-best-invisalign-provider-1-804x1024.webp",
+      "w": 800,
+      "h": 1018
+    },
+    {
+      "file": "person-2.jpg",
+      "src": "https://www.mysmilemiami.com/wp-content/uploads/2026/05/dr-grisel-martos-miami.png",
+      "w": 800,
+      "h": 800
+    },
+    {
+      "file": "person-3.jpg",
+      "src": "https://www.mysmilemiami.com/wp-content/uploads/2026/05/my-smile-miami-dr-martos-dds-1.png",
+      "w": 800,
+      "h": 800
+    },
+    {
+      "file": "person-4.jpg",
+      "src": "https://www.mysmilemiami.com/wp-content/uploads/2026/03/Dr.-Ismael-Khouly-DDS-MS-PhD.webp",
+      "w": 800,
+      "h": 800
+    }
+  ],
+  "address": null,
+  "error": null
+}

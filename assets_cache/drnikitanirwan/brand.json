@@ -1,0 +1,95 @@
+{
+  "_schema": 3,
+  "username": "drnikitanirwan",
+  "lead_name": "Dr Nikita BDS",
+  "website": "http://www.drnikita.com/",
+  "country": "United Kingdom",
+  "reachable": true,
+  "final_url": "https://www.drnikita.com/",
+  "name": "Dr Nikita BDS",
+  "tagline": "",
+  "phone": "020 8068 6655",
+  "email": "hello@drnikita.com",
+  "address": "",
+  "services": [
+    "Teeth Whitening",
+    "Porcelain Veneers",
+    "Facial Aesthetics"
+  ],
+  "primary": "#4169e1",
+  "accent": "#66b95c",
+  "colour_source": "css",
+  "logo_file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drnikitanirwan\\logo.png",
+  "logo_w": 714,
+  "logo_h": 292,
+  "logo_source": "img-logo",
+  "logo_is_dark": false,
+  "logo_alpha": 0.0,
+  "hero_file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drnikitanirwan\\photo0.png",
+  "hero_w": 900,
+  "hero_h": 500,
+  "photos": [
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drnikitanirwan\\photo0.png",
+      "url": "https://www.drnikita.com/img/partners/invisalign.png",
+      "w": 900,
+      "h": 500
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drnikitanirwan\\photo1.jpg",
+      "url": "https://www.drnikita.com/img/portfolio/prp.jpg",
+      "w": 600,
+      "h": 600
+    }
+  ],
+  "usable_images": 2,
+  "instagram_used": false,
+  "notes": [
+    "meta description is a CMS default ('Name of your web site') - dropped"
+  ],
+  "segment": "own_site",
+  "scraped_at": "2026-08-22T15:22:44+00:00",
+  "ownership_evidence": [
+    "lead's email domain is this website's domain",
+    "the site publishes the lead's email address",
+    "the site publishes the lead's phone number",
+    "the site links to the lead's Instagram account",
+    "domain matches the practice or account name",
+    "scraped business name matches the lead"
+  ],
+  "logo_url": "https://www.drnikita.com/img/logo/drnikita_logo.png",
+  "colour_candidates": [
+    {
+      "hex": "#4169e1",
+      "weight": 46
+    },
+    {
+      "hex": "#66b95c",
+      "weight": 46
+    },
+    {
+      "hex": "#ff9800",
+      "weight": 46
+    },
+    {
+      "hex": "#ff5e94",
+      "weight": 46
+    },
+    {
+      "hex": "#fa5b0f",
+      "weight": 46
+    },
+    {
+      "hex": "#9200ee",
+      "weight": 46
+    },
+    {
+      "hex": "#00d4bd",
+      "weight": 46
+    },
+    {
+      "hex": "#5e9e9f",
+      "weight": 46
+    }
+  ]
+}

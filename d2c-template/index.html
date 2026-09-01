@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VedoraKids — Ethnic Wear for Children</title>
+<meta name="description" content="Hand-finished ethnic wear for children. Lehengas, kurta sets, sharara and festive outfits. COD available, free shipping over ₹999.">
+<meta name="theme-color" content="#2B2724">
+<meta property="og:type" content="website">
+<meta property="og:title" content="VedoraKids — Ethnic Wear for Children">
+<meta property="og:description" content="Traditions made for little smiles. Festive outfits for boys and girls.">
+<!-- ⚠️ absolute URL required — social crawlers cannot resolve relative paths -->
+<meta property="og:image" content="https://REPLACE-WITH-LIVE-DOMAIN.com/assets/img/hero1.webp">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+
+<main id="main">
+
+  <!-- ══ HERO ══ -->
+  <section class="hero" style="padding:0">
+    <div class="hero__track" id="slides"></div>
+    <div class="hero__dots" id="dots"></div>
+  </section>
+
+  <!-- ══ USP ══ -->
+  <div class="usp"><div class="wrap usp__in" id="usp"></div></div>
+
+  <!-- ══ SHOP ══ -->
+  <section id="shop">
+    <div class="wrap">
+      <div class="sec__head">
+        <div>
+          <p class="eyebrow">Shop the edit</p>
+          <h2>Best sellers &amp; new arrivals</h2>
+        </div>
+        <p id="count" class="sec__link" style="border:0;color:var(--muted)"></p>
+      </div>
+      <div class="chips" id="chips"></div>
+      <div class="grid" id="grid"></div>
+    </div>
+  </section>
+
+  <!-- ══ CATEGORIES ══ -->
+  <section style="padding-top:0">
+    <div class="wrap">
+      <div class="sec__head">
+        <div>
+          <p class="eyebrow">Browse</p>
+          <h2>Style for the moment</h2>
+        </div>
+      </div>
+      <div class="cats" id="cats"></div>
+    </div>
+  </section>
+
+  <!-- ══ TESTIMONIALS ══ -->
+  <section class="quotes">
+    <div class="wrap">
+      <div class="sec__head">
+        <div>
+          <p class="eyebrow">Loved by parents</p>
+          <h2>What families tell us</h2>
+        </div>
+      </div>
+      <div class="quotes__grid" id="quotes"></div>
+    </div>
+  </section>
+
+  <!-- ══ INSTAGRAM ══ -->
+  <section class="ig">
+    <div class="wrap">
+      <div class="sec__head">
+        <div>
+          <p class="eyebrow">Follow us</p>
+          <h2>Seen on Instagram</h2>
+        </div>
+        <a class="sec__link" id="igLink" target="_blank" rel="noopener">Follow →</a>
+      </div>
+      <div class="ig__strip" id="ig"></div>
+    </div>
+  </section>
+
+  <!-- ══ FAQ ══ -->
+  <section id="faq" style="padding-top:0">
+    <div class="wrap faq">
+      <div class="sec__head" style="justify-content:center;text-align:center">
+        <div style="margin:0 auto">
+          <p class="eyebrow">Questions</p>
+          <h2>Before you order</h2>
+        </div>
+      </div>
+      <div id="faqList"></div>
+    </div>
+  </section>
+
+</main>
+
+<noscript>
+  <p style="background:#2B2724;color:#fff;padding:16px;text-align:center;margin:0">
+    This store needs JavaScript. Message us on
+    <a href="https://wa.me/917567617393" style="color:#F3E4C6">WhatsApp</a> and we'll take your order directly.
+  </p>
+</noscript>
+
+<script src="assets/data.js"></script>
+<script src="assets/app.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+
+  /* ── hero carousel ── */
+  const track = $('#slides'), dots = $('#dots');
+  track.innerHTML = SLIDES.map(s => `
+    <div class="slide">
+      <picture>
+        <source type="image/webp" srcset="assets/img/${s.img}.webp">
+        <img src="assets/img/${s.img}.webp" width="1600" height="1000" alt="${s.title}"
+             ${s === SLIDES[0] ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async">
+      </picture>
+      <div class="slide__body">
+        <p class="eyebrow">${s.eyebrow}</p>
+        <h2>${s.title}</h2>
+        <p>${s.text}</p>
+        <a class="btn btn--accent" href="${s.href}">${s.cta}</a>
+      </div>
+    </div>`).join('');
+
+  dots.innerHTML = SLIDES.map((_, i) =>
+    `<button class="dot${i ? '' : ' is-on'}" data-i="${i}" aria-label="Slide ${i + 1}"></button>`).join('');
+
+  const go = i => track.scrollTo({ left: track.clientWidth * i, behavior: 'smooth' });
+  $$('.dot', dots).forEach(d => d.addEventListener('click', () => go(+d.dataset.i)));
+  track.addEventListener('scroll', () => {
+    const i = Math.round(track.scrollLeft / track.clientWidth);
+    $$('.dot', dots).forEach((d, n) => d.classList.toggle('is-on', n === i));
+  }, { passive:true });
+
+  if (!matchMedia('(prefers-reduced-motion: reduce)').matches){
+    let i = 0, timer = setInterval(() => go(i = (i + 1) % SLIDES.length), 6000);
+    track.addEventListener('pointerdown', () => clearInterval(timer));
+  }
+
+  /* ── usp ── */
+  $('#usp').innerHTML = [
+    ['truck',  `Free shipping over ${money(BRAND.freeShipOver)}`],
+    ['shield', 'Skin-friendly lined fabrics'],
+    ['swap',   '7-day easy exchange'],
+    ['chat',   'Order on WhatsApp']
+  ].map(([ic, t]) => `<div class="usp__i">${icon(ic)}<span>${t}</span></div>`).join('');
+
+  /* a product belongs to a chip via its category OR its tags */
+  const inCat = (p, id) => p.cat === id || (p.tags || []).includes(id);
+
+  /* ── shop grid + category chips ── */
+  const CHIPS = [{ id:'all', name:'All' }, ...CATEGORIES.map(c => ({ id:c.id, name:c.name }))];
+  let active = new URLSearchParams(location.hash.split('?')[1] || '').get('cat') || 'all';
+
+  function paint(){
+    $('#chips').innerHTML = CHIPS.map(c => {
+      const n = c.id === 'all' ? PRODUCTS.length : PRODUCTS.filter(p => inCat(p, c.id)).length;
+      return `<button class="chip${c.id === active ? ' is-on' : ''}" data-cat="${c.id}"
+               aria-pressed="${c.id === active}">${c.name} (${n})</button>`;
+    }).join('');
+
+    const list = active === 'all' ? PRODUCTS : PRODUCTS.filter(p => inCat(p, active));
+    $('#count').textContent = `${list.length} ${list.length === 1 ? 'style' : 'styles'}`;
+    $('#grid').innerHTML = list.length ? list.map(cardHTML).join('') : `
+      <div class="empty" style="grid-column:1/-1">
+        <h2>Nothing here yet</h2>
+        <p>This edit is being restocked. Message us and we'll tell you what's coming.</p>
+        <a class="btn btn--wa" href="https://wa.me/${BRAND.whatsapp}">Ask on WhatsApp</a>
+      </div>`;
+    wireQuickAdd($('#grid'));
+  }
+  $('#chips').addEventListener('click', e => {
+    const b = e.target.closest('.chip'); if (!b) return;
+    active = b.dataset.cat; paint();
+  });
+  paint();
+
+  /* ── categories ── */
+  $('#cats').innerHTML = CATEGORIES.map(c => `
+    <a class="cat" href="#shop" data-cat="${c.id}">
+      <img src="assets/img/${c.img}.webp" width="800" height="1000" alt="${c.name}" loading="lazy" decoding="async">
+      <div class="cat__body"><h3>${c.name}</h3><span>${c.note}</span></div>
+    </a>`).join('');
+  $$('#cats .cat').forEach(a => a.addEventListener('click', () => { active = a.dataset.cat; paint(); }));
+
+  /* ── testimonials ── */
+  $('#quotes').innerHTML = TESTIMONIALS.map(t => `
+    <figure class="quote" style="margin:0">
+      <div class="quote__stars">★★★★★</div>
+      <blockquote style="margin:0"><p>“${t.text}”</p></blockquote>
+      <figcaption class="quote__who">${t.name} · ${t.city}</figcaption>
+    </figure>`).join('');
+
+  /* ── instagram strip ── */
+  $('#igLink').href = BRAND.instagram;
+  $('#ig').innerHTML = PRODUCTS.slice(0, 6).map(p => `
+    <a href="${BRAND.instagram}" target="_blank" rel="noopener" aria-label="${p.name} on Instagram">
+      <img src="assets/img/${p.img}-600.webp" width="600" height="900" alt="" loading="lazy" decoding="async">
+    </a>`).join('');
+
+  /* ── faq ── */
+  $('#faqList').innerHTML = FAQ.map(f => `
+    <details><summary>${f.q}</summary><p>${f.a}</p></details>`).join('');
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,111 @@
+{
+  "_schema": 3,
+  "username": "drzamena",
+  "lead_name": "𝐃𝐑 𝐙𝐀𝐌𝐄𝐍𝐀",
+  "website": "http://www.themedicalspa.co.uk/",
+  "country": "United Kingdom",
+  "reachable": true,
+  "final_url": "https://themedicalspa.co.uk/",
+  "name": "The Medical Spa",
+  "tagline": "The Medical Spa is a leading medical spa in Radlett, Northwood and Hertfordshire , UK, offering professional skincare, facial aesthetics, non-surgical treatment",
+  "phone": "+447355503551",
+  "email": "info@themedicalspa.co.uk",
+  "address": "90 Shenley Rd Borehamwood, Borehamwood, Borehamwood, Borehamwood, WD6 1EB",
+  "services": [
+    "Facial Aesthetics",
+    "Children's Dentistry"
+  ],
+  "primary": "#579af6",
+  "accent": "#38c5b5",
+  "colour_source": "css",
+  "logo_file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drzamena\\logo.png",
+  "logo_w": 260,
+  "logo_h": 83,
+  "logo_source": "img-logo",
+  "logo_is_dark": true,
+  "logo_alpha": 0.847,
+  "hero_file": "",
+  "hero_w": 0,
+  "hero_h": 0,
+  "photos": [
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drzamena\\photo0.png",
+      "url": "http://themedicalspa.co.uk/wp-content/uploads/2023/11/Screenshot-2023-11-28-at-23.11.02.png",
+      "w": 1018,
+      "h": 1096
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drzamena\\photo1.webp",
+      "url": "http://themedicalspa.co.uk/wp-content/uploads/2023/06/press-and-cleanse.webp",
+      "w": 625,
+      "h": 625
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drzamena\\photo2.webp",
+      "url": "http://themedicalspa.co.uk/wp-content/uploads/2023/08/alumeir-mask.webp",
+      "w": 625,
+      "h": 625
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drzamena\\photo3.jpg",
+      "url": "http://themedicalspa.co.uk/wp-content/uploads/2023/06/obagi-brand-600x600.jpg",
+      "w": 600,
+      "h": 600
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drzamena\\photo4.jpg",
+      "url": "http://themedicalspa.co.uk/wp-content/uploads/2023/06/alumier-brand-600x600.jpg",
+      "w": 600,
+      "h": 600
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drzamena\\photo5.jpg",
+      "url": "http://themedicalspa.co.uk/wp-content/uploads/2023/06/heliocare-brand-1-600x600.jpg",
+      "w": 600,
+      "h": 600
+    }
+  ],
+  "usable_images": 6,
+  "instagram_used": false,
+  "notes": [],
+  "segment": "own_site",
+  "scraped_at": "2026-08-22T15:03:05+00:00",
+  "ownership_evidence": [
+    "domain matches the practice or account name"
+  ],
+  "logo_url": "https://themedicalspa.co.uk/wp-content/uploads/2023/03/medicalspalogo-260x83.png",
+  "colour_candidates": [
+    {
+      "hex": "#579af6",
+      "weight": 37
+    },
+    {
+      "hex": "#38c5b5",
+      "weight": 24
+    },
+    {
+      "hex": "#0274be",
+      "weight": 24
+    },
+    {
+      "hex": "#3f4b5b",
+      "weight": 13
+    },
+    {
+      "hex": "#d43858",
+      "weight": 12
+    },
+    {
+      "hex": "#35414a",
+      "weight": 10
+    },
+    {
+      "hex": "#b0bec6",
+      "weight": 10
+    },
+    {
+      "hex": "#3177c7",
+      "weight": 9
+    }
+  ]
+}

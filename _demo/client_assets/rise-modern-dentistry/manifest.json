@@ -1,0 +1,40 @@
+{
+  "slug": "rise-modern-dentistry",
+  "website": "https://risemoderndentistry.com",
+  "heroes": [
+    {
+      "file": "hero-1.jpg",
+      "src": "https://risemoderndentistry.com/wp-content/uploads/2026/07/Rise-Modern-Dentistry-Reception-2-1.jpg",
+      "w": 1440,
+      "h": 638
+    },
+    {
+      "file": "hero-2.jpg",
+      "src": "https://risemoderndentistry.com/wp-content/uploads/2026/07/a-patient-in-a-modern-dental-chair-faces-a-screen-displaying-welcome-to-rise-modern-dentistry-while.jpg",
+      "w": 1440,
+      "h": 638
+    }
+  ],
+  "people": [
+    {
+      "file": "person-1.jpg",
+      "src": "https://risemoderndentistry.com/wp-content/uploads/2026/07/Rise-Modern-Dentistry-Dr.-Cody-Miller.jpg",
+      "w": 900,
+      "h": 900
+    },
+    {
+      "file": "person-2.jpg",
+      "src": "https://risemoderndentistry.com/wp-content/uploads/2026/07/Rise-Modern-Dentistry-Dr.-Brandon-Morales.jpg",
+      "w": 800,
+      "h": 800
+    },
+    {
+      "file": "person-3.jpg",
+      "src": "https://risemoderndentistry.com/wp-content/uploads/2026/07/Rise-Modern-Dentistry-Dr.-Miller-and-Dr.-Morales.jpg",
+      "w": 800,
+      "h": 778
+    }
+  ],
+  "address": null,
+  "error": null
+}

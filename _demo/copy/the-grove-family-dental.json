@@ -1,0 +1,33 @@
+{
+  "slug": "the-grove-family-dental",
+  "rank": 7,
+  "practice": "The Grove Family Dental",
+  "meta_title": "The Grove Family Dental | Family and implant dentistry in Glendale, AZ",
+  "meta_desc": "General, cosmetic and implant dentistry in Glendale, Arizona, from a father-and-son team working in a purpose-built new office.",
+  "hero_h1": "Family, cosmetic and implant care in Glendale",
+  "hero_sub": "A father-and-son dental team, now practicing in a purpose-built new office.",
+  "cta_primary": "Book an appointment",
+  "cta_secondary": "See our services",
+  "about_heading": "Two generations of dentists, one practice",
+  "about_body": "The Grove Family Dental is run by Dr. Todd Garrett and Dr. Brady Garrett, a father and son practicing together in Glendale. General, cosmetic and implant care all sit under one roof.\n\nThe practice now works from an office built from the ground up for it, so families can see the same team for routine visits, cosmetic treatment and implants without being sent across town.",
+  "services": [
+    {
+      "name": "General dentistry",
+      "blurb": "Routine care for every age, from children through to grandparents, in one practice."
+    },
+    {
+      "name": "Cosmetic dentistry",
+      "blurb": "Treatment aimed at how your teeth look, planned around what you actually want changed."
+    },
+    {
+      "name": "Dental implants",
+      "blurb": "Replacing missing teeth with implants placed and restored by the same team."
+    },
+    {
+      "name": "New patient visits",
+      "blurb": "A first appointment in the new Glendale office, with time to talk through options."
+    }
+  ],
+  "footer_tagline": "Family, cosmetic and implant dentistry in Glendale, Arizona.",
+  "why_this_angle": "Built the page around the purpose-built new office from growth_trigger and the father-and-son ownership in role, since the new building is the news and the current site buries it."
+}

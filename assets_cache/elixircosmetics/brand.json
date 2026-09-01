@@ -1,0 +1,100 @@
+{
+  "_schema": 3,
+  "username": "elixircosmetics",
+  "lead_name": "Dr Qureshi Cosmetic Injector",
+  "website": "http://www.elixircosmetics.com/",
+  "country": "United Kingdom",
+  "reachable": true,
+  "final_url": "https://www.elixircosmetics.com/",
+  "name": "Elixir Cosmetics",
+  "tagline": "Here at Elixir Cosmetics Edgware we provide the very best cosmetic treatment.",
+  "phone": "07718207870",
+  "email": "elixir.enquiry@mail.com",
+  "address": "",
+  "services": [
+    "Teeth Whitening",
+    "Hygiene & Cleaning",
+    "Cosmetic Dentistry",
+    "Facial Aesthetics"
+  ],
+  "primary": "#b90000",
+  "accent": "#8cc63e",
+  "colour_source": "logo",
+  "logo_file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\elixircosmetics\\logo.png",
+  "logo_w": 183,
+  "logo_h": 57,
+  "logo_source": "img-logo",
+  "logo_is_dark": false,
+  "logo_alpha": 0.0,
+  "hero_file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\elixircosmetics\\photo0.jpg",
+  "hero_w": 1400,
+  "hero_h": 500,
+  "photos": [
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\elixircosmetics\\photo0.jpg",
+      "url": "https://www.elixircosmetics.com/wp-content/themes/elixircosmetics/images/xbanner.png.pagespeed.ic.S3TKNiBfHq.jpg",
+      "w": 1400,
+      "h": 500
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\elixircosmetics\\photo1.jpg",
+      "url": "https://www.elixircosmetics.com/wp-content/themes/elixircosmetics/images/xbanner02.png.pagespeed.ic.HqxfdeEGub.jpg",
+      "w": 1400,
+      "h": 500
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\elixircosmetics\\photo2.png",
+      "url": "https://www.elixircosmetics.com/wp-content/themes/elixircosmetics/images/xbanner03.png.pagespeed.ic.a7_Kvr89rb.png",
+      "w": 1400,
+      "h": 500
+    }
+  ],
+  "usable_images": 3,
+  "instagram_used": false,
+  "notes": [
+    "email from lead CSV"
+  ],
+  "segment": "own_site",
+  "scraped_at": "2026-08-22T15:04:58+00:00",
+  "ownership_evidence": [
+    "the site publishes the lead's email address",
+    "the site publishes the lead's phone number",
+    "the site links to the lead's Instagram account",
+    "domain matches the practice or account name"
+  ],
+  "logo_url": "https://www.elixircosmetics.com/wp-content/themes/elixircosmetics/images/xlogo.png.pagespeed.ic.sSCgPjaJCH.png",
+  "colour_candidates": [
+    {
+      "hex": "#b90000",
+      "weight": 58
+    },
+    {
+      "hex": "#b40c0c",
+      "weight": 40
+    },
+    {
+      "hex": "#8cc63e",
+      "weight": 21
+    },
+    {
+      "hex": "#586e7c",
+      "weight": 9
+    },
+    {
+      "hex": "#ff0000",
+      "weight": 6
+    },
+    {
+      "hex": "#7f0303",
+      "weight": 6
+    },
+    {
+      "hex": "#427fed",
+      "weight": 6
+    },
+    {
+      "hex": "#0367bf",
+      "weight": 5
+    }
+  ]
+}

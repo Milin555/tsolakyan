@@ -1,0 +1,109 @@
+{
+  "_schema": 3,
+  "username": "dr.samkoh",
+  "lead_name": "𝗗𝗿 𝗦𝗮𝗺 𝗞𝗼𝗵",
+  "website": "https://taplink.cc/dr.samkoh",
+  "country": "Australia",
+  "reachable": false,
+  "final_url": "",
+  "name": "𝗗𝗿 𝗦𝗮𝗺 𝗞𝗼𝗵",
+  "tagline": "COSMETICS + IMPLANTS/AoX",
+  "phone": "+61393909872",
+  "email": "drsamkoh@gmail.com",
+  "address": "",
+  "services": [
+    "Dental Implants",
+    "Cosmetic Dentistry"
+  ],
+  "primary": "#e4b49c",
+  "accent": "#e4b49c",
+  "colour_source": "instagram-photo",
+  "logo_file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\dr-samkoh\\logo.jpg",
+  "logo_w": 320,
+  "logo_h": 320,
+  "logo_source": "instagram-avatar",
+  "logo_is_dark": false,
+  "logo_alpha": 0.0,
+  "hero_file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\dr-samkoh\\ig4.jpg",
+  "hero_w": 1080,
+  "hero_h": 607,
+  "photos": [
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\dr-samkoh\\ig0.jpg",
+      "url": "https://instagram.famd21-1.fna.fbcdn.net/v/t51.82787-15/653425240_18061978037690124_6071974337205705019_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=instagram.famd21-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gGivVOOUg16sY-0LWldv2FVF2fRJ3KLMU4Gyi-Do_UstYec18VpTS59GExNhaLsxjwYqE-zHyM6MbLE1IicgZFd&_nc_ohc=U0y7kLfQ28sQ7kNvwGigZsS&_nc_gid=uzWNVkyIql6D0Bl5qsaoNg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQGm0K5ZDiJK6YfUyQmbKTDrt4JqpaP_lvwXjasCXUssow&oe=6A8F728C&_nc_sid=8b3546",
+      "w": 1080,
+      "h": 1080,
+      "source": "instagram"
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\dr-samkoh\\ig1.jpg",
+      "url": "https://instagram.famd21-2.fna.fbcdn.net/v/t51.82787-15/649218923_18064338881328808_7478408917095732791_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=instagram.famd21-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gGivVOOUg16sY-0LWldv2FVF2fRJ3KLMU4Gyi-Do_UstYec18VpTS59GExNhaLsxjwYqE-zHyM6MbLE1IicgZFd&_nc_ohc=jcMCg4DYjH8Q7kNvwH08gU_&_nc_gid=uzWNVkyIql6D0Bl5qsaoNg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQFsLvvk-pJW9NLhbY80qOfuZaM2u5xonaUWXxHjsPjFww&oe=6A8F9A3C&_nc_sid=8b3546",
+      "w": 1080,
+      "h": 1080,
+      "source": "instagram"
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\dr-samkoh\\ig2.jpg",
+      "url": "https://instagram.famd21-1.fna.fbcdn.net/v/t51.2885-15/468906314_18435433810079085_1172071853482426577_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=instagram.famd21-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gGivVOOUg16sY-0LWldv2FVF2fRJ3KLMU4Gyi-Do_UstYec18VpTS59GExNhaLsxjwYqE-zHyM6MbLE1IicgZFd&_nc_ohc=Y0pBGu6M3XoQ7kNvwFICgxZ&_nc_gid=uzWNVkyIql6D0Bl5qsaoNg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQGW1MvtpQIgyrGlSAiLNTf4QAkDevi2_7EwaeqhT14p5Q&oe=6A8F9B22&_nc_sid=8b3546",
+      "w": 1080,
+      "h": 1080,
+      "source": "instagram"
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\dr-samkoh\\ig3.jpg",
+      "url": "https://instagram.famd21-1.fna.fbcdn.net/v/t51.82787-15/755946578_18551318416079085_677711934534227503_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=instagram.famd21-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gGivVOOUg16sY-0LWldv2FVF2fRJ3KLMU4Gyi-Do_UstYec18VpTS59GExNhaLsxjwYqE-zHyM6MbLE1IicgZFd&_nc_ohc=fJX_clxjKFQQ7kNvwE-ntGy&_nc_gid=uzWNVkyIql6D0Bl5qsaoNg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQGVqyWwv3Vo5D53Uuc0S6Z1RNWM8d0jA2sfKAHogchDIQ&oe=6A8F8FD2&_nc_sid=8b3546",
+      "w": 1080,
+      "h": 1080,
+      "source": "instagram"
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\dr-samkoh\\ig4.jpg",
+      "url": "https://instagram.famd21-1.fna.fbcdn.net/v/t51.82787-15/753990724_18550596787079085_7568167545734819633_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=instagram.famd21-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gGivVOOUg16sY-0LWldv2FVF2fRJ3KLMU4Gyi-Do_UstYec18VpTS59GExNhaLsxjwYqE-zHyM6MbLE1IicgZFd&_nc_ohc=esXBJPLBr54Q7kNvwHz6dc6&_nc_gid=uzWNVkyIql6D0Bl5qsaoNg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQEtZHoJWXIYbC5o5HibLzgBXbDoB_sXp___fEiM93t0Uw&oe=6A8F7352&_nc_sid=8b3546",
+      "w": 1080,
+      "h": 607,
+      "source": "instagram"
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\dr-samkoh\\ig5.jpg",
+      "url": "https://instagram.famd21-1.fna.fbcdn.net/v/t39.30808-6/429937493_18389110402079085_5979548099301032751_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=instagram.famd21-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gGivVOOUg16sY-0LWldv2FVF2fRJ3KLMU4Gyi-Do_UstYec18VpTS59GExNhaLsxjwYqE-zHyM6MbLE1IicgZFd&_nc_ohc=CJVwFz0g2YMQ7kNvwHsqez3&_nc_gid=uzWNVkyIql6D0Bl5qsaoNg&edm=AOQ1c0wAAAAA&ccb=7-5&oh=00_AQGUCH3vcJqx8yEfjXowZmqnf6UeLswJgQLVNpqV_0UTyg&oe=6A8F79F9&_nc_sid=8b3546",
+      "w": 1080,
+      "h": 1080,
+      "source": "instagram"
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\dr-samkoh\\ig6.jpg",
+      "url": "https://instagram.famd21-1.fna.fbcdn.net/v/t51.82787-15/733395274_18547046752079085_3412076047747831589_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.famd21-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gGivVOOUg16sY-0LWldv2FVF2fRJ3KLMU4Gyi-Do_UstYec18VpTS59GExNhaLsxjwYqE-zHyM6MbLE1IicgZFd&_nc_ohc=95Eb5T2wukAQ7kNvwEb3s2X&_nc_gid=uzWNVkyIql6D0Bl5qsaoNg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQFkzYdGuyXXkxKbj_rD7H26HOhnYC5yndDbjvrrQz3e4w&oe=6A8F7710&_nc_sid=8b3546",
+      "w": 800,
+      "h": 800,
+      "source": "instagram"
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\dr-samkoh\\ig7.jpg",
+      "url": "https://instagram.famd21-1.fna.fbcdn.net/v/t51.82787-15/718907156_18539426224079085_4934103739358151171_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=instagram.famd21-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gGivVOOUg16sY-0LWldv2FVF2fRJ3KLMU4Gyi-Do_UstYec18VpTS59GExNhaLsxjwYqE-zHyM6MbLE1IicgZFd&_nc_ohc=5OHl2_XxMxQQ7kNvwFFmnLD&_nc_gid=uzWNVkyIql6D0Bl5qsaoNg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQFDRrUI6mYZtzcYDK8wXX6nxAY6YBxynod-0mymaRVXxw&oe=6A8F7358&_nc_sid=8b3546",
+      "w": 1080,
+      "h": 607,
+      "source": "instagram"
+    }
+  ],
+  "usable_images": 8,
+  "instagram_used": true,
+  "notes": [
+    "website is a link-in-bio hop (taplink.cc), not their own site - building from Instagram only",
+    "phone from lead CSV",
+    "email from lead CSV",
+    "name from lead CSV",
+    "no logo candidate downloaded",
+    "no non-neutral colour found on site",
+    "tagline from Instagram bio",
+    "services from Instagram bio",
+    "logo from Instagram avatar (320x320, looks like a PHOTO)",
+    "instagram supplied 8 photo(s)"
+  ],
+  "segment": "link_in_bio",
+  "scraped_at": "2026-08-22T14:56:04+00:00",
+  "colour_candidates": [],
+  "ig_followers": 14185,
+  "logo_url": "https://instagram.famd21-1.fna.fbcdn.net/v/t51.2885-19/466543210_879305180959764_4766255907110234190_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.famd21-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gGivVOOUg16sY-0LWldv2FVF2fRJ3KLMU4Gyi-Do_UstYec18VpTS59GExNhaLsxjwYqE-zHyM6MbLE1IicgZFd&_nc_ohc=FelEM8Joyv0Q7kNvwGYFodG&_nc_gid=uzWNVkyIql6D0Bl5qsaoNg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQGCUnO2LUArEuwzruST0u8tVdLM5-Kkz7KvAEdKTqQK8A&oe=6A8F7F47&_nc_sid=8b3546",
+  "logo_is_photo": true,
+  "logo_colours": 71
+}

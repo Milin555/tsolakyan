@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your bag — VedoraKids</title>
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#2B2724">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+
+<main id="main" class="wrap cartpage"></main>
+
+<noscript>
+  <p style="background:#2B2724;color:#fff;padding:16px;text-align:center;margin:0">
+    Your bag needs JavaScript. Message us on
+    <a href="https://wa.me/917567617393" style="color:#F3E4C6">WhatsApp</a> to order.
+  </p>
+</noscript>
+
+<script src="assets/data.js"></script>
+<script src="assets/app.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const main = $('#main');
+
+  function render(){
+    const items = Cart.read();
+
+    if (!items.length){
+      main.innerHTML = `
+        <div class="empty">
+          <h2>Your bag is empty</h2>
+          <p>Nothing here yet — the festive edit is a good place to start.</p>
+          <a class="btn btn--ink" href="index.html#shop">Start shopping</a>
+        </div>`;
+      return;
+    }
+
+    const total = Cart.total();
+    const freeShip = total >= BRAND.freeShipOver;
+    const short = BRAND.freeShipOver - total;
+
+    main.innerHTML = `
+      <h1 style="font-size:clamp(25px,4.4vw,34px);margin-bottom:6px">Your bag</h1>
+      <p style="color:var(--muted);margin:0 0 24px">${Cart.count()} item${Cart.count() === 1 ? '' : 's'}</p>
+
+      <div class="cart__grid">
+        <div>
+          ${items.map((i, n) => {
+            const p = bySku(i.sku);
+            if (!p) return '';
+            return `
+            <div class="line">
+              <a href="product.html?sku=${p.sku}">
+                <img src="assets/img/${p.img}-600.webp" width="600" height="900" alt="${p.name}" loading="lazy">
+              </a>
+              <div>
+                <a class="line__name" href="product.html?sku=${p.sku}">${p.name}</a>
+                <p class="line__opt">${i.colour} · ${i.size} · ${p.sku}</p>
+                <div class="line__row">
+                  <div class="qty">
+                    <button data-dec="${n}" aria-label="Decrease">−</button>
+                    <input type="number" value="${i.qty}" min="1" max="20" data-qty="${n}" aria-label="Quantity">
+                    <button data-inc="${n}" aria-label="Increase">+</button>
+                  </div>
+                  <strong>${money(p.price * i.qty)}</strong>
+                </div>
+                <button class="line__rm" data-rm="${n}">Remove</button>
+              </div>
+            </div>`;
+          }).join('')}
+        </div>
+
+        <aside class="sum">
+          <div class="sum__r"><span>Subtotal</span><span>${money(total)}</span></div>
+          <div class="sum__r">
+            <span>Shipping</span>
+            <span>${freeShip ? 'Free' : 'Calculated on confirmation'}</span>
+          </div>
+          ${!freeShip ? `<p class="sum__note">Add ${money(short)} more for free shipping.</p>` : ''}
+          <div class="sum__r sum__r--total"><span>Total</span><span>${money(total)}</span></div>
+
+          <a class="btn btn--wa btn--full" style="margin-top:16px" id="order" href="#">
+            ${WA_GLYPH_SM} Place order on WhatsApp
+          </a>
+          <a class="btn btn--line btn--full" style="margin-top:9px" href="index.html#shop">Continue shopping</a>
+
+          <p class="sum__note">
+            Your order opens in WhatsApp with every item, size and colour written out.
+            We confirm stock and share payment options there.
+            ${BRAND.codAvailable ? ' COD available across India.' : ''}
+          </p>
+        </aside>
+      </div>`;
+
+    $('#order').href = waOrder();
+
+    $$('[data-inc]').forEach(b => b.addEventListener('click',
+      () => Cart.setQty(+b.dataset.inc, Cart.read()[+b.dataset.inc].qty + 1)));
+    $$('[data-dec]').forEach(b => b.addEventListener('click',
+      () => Cart.setQty(+b.dataset.dec, Cart.read()[+b.dataset.dec].qty - 1)));
+    $$('[data-rm]').forEach(b => b.addEventListener('click',
+      () => { Cart.remove(+b.dataset.rm); toast('Removed'); }));
+    $$('[data-qty]').forEach(inp => inp.addEventListener('change',
+      () => Cart.setQty(+inp.dataset.qty, Math.min(20, Math.max(0, parseInt(inp.value) || 0)))));
+  }
+
+  render();
+  document.addEventListener('cart:change', render);
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,80 @@
+{
+  "_schema": 3,
+  "username": "the_melton_clinic",
+  "lead_name": "The Melton Clinic",
+  "website": "http://www.themeltonclinic.co.uk/covid-tests",
+  "country": "United Kingdom",
+  "reachable": true,
+  "final_url": "https://www.themeltonclinic.co.uk/covid-tests",
+  "name": "The Melton Clinic",
+  "tagline": "PCR Covid Testing including Fit to Fly, Test to Release, Day 2 and Day 8 testing.",
+  "phone": "+441664650550",
+  "email": "info@themeltonclinic.co.uk",
+  "address": "",
+  "services": [
+    "Dental Implants",
+    "Teeth Whitening",
+    "Orthodontics",
+    "Composite Bonding",
+    "Root Canal Treatment",
+    "Hygiene & Cleaning",
+    "Emergency Dentistry",
+    "Facial Aesthetics"
+  ],
+  "primary": "#1a73e8",
+  "accent": "#0c4426",
+  "colour_source": "css",
+  "logo_file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\the-melton-clinic\\logo.png",
+  "logo_w": 150,
+  "logo_h": 112,
+  "logo_source": "img-logo",
+  "logo_is_dark": false,
+  "logo_alpha": 0.0,
+  "hero_file": "",
+  "hero_w": 0,
+  "hero_h": 0,
+  "photos": [
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\the-melton-clinic\\photo0.png",
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/sloppyframe.3214ce8e.png",
+      "w": 1970,
+      "h": 1970
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\the-melton-clinic\\photo1.jpg",
+      "url": "https://static.wixstatic.com/media/2237e9_72ebb7f108534a99ae7bedbb825aeea2%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/2237e9_72ebb7f108534a99ae7bedbb825aeea2%7Emv2.jpg",
+      "w": 640,
+      "h": 640
+    }
+  ],
+  "usable_images": 2,
+  "instagram_used": false,
+  "notes": [
+    "site title is a CMS default ('Mysite') - falling back to the lead record",
+    "name from lead CSV"
+  ],
+  "segment": "own_site",
+  "scraped_at": "2026-08-22T15:06:12+00:00",
+  "ownership_evidence": [
+    "lead's email domain is this website's domain",
+    "the site publishes the lead's email address",
+    "the site publishes the lead's phone number",
+    "the site links to the lead's Instagram account",
+    "domain matches the practice or account name"
+  ],
+  "logo_url": "https://static.wixstatic.com/media/2237e9_027d66fd1b6547cdbe5416ea8f820c87~mv2_d_2993_2417_s_4_2.png/v1/crop/x_20,y_102,w_2973,h_2072/fill/w_150,h_112,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo.png",
+  "colour_candidates": [
+    {
+      "hex": "#1a73e8",
+      "weight": 2
+    },
+    {
+      "hex": "#116dff",
+      "weight": 2
+    },
+    {
+      "hex": "#0c4426",
+      "weight": 2
+    }
+  ]
+}

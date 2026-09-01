@@ -1,0 +1,15 @@
+{
+  "slug": "hampshire-meadow-family-pediatric",
+  "website": "https://www.hampshiremeadowdental.com",
+  "heroes": [
+    {
+      "file": "hero-1.jpg",
+      "src": "https://images.squarespace-cdn.com/content/v1/5c69f7bef4755a314a3d9630/1552613716993-G049PWRHYWJW2YHHIKZ5/Cover+Page+1+.jpg?format=1500w",
+      "w": 1500,
+      "h": 1001
+    }
+  ],
+  "people": [],
+  "address": "Address: 207 Russell St, Hadley, MA, 01035",
+  "error": null
+}

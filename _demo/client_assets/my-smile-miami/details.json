@@ -1,0 +1,16 @@
+{
+  "slug": "my-smile-miami",
+  "address": "Miami, FL 33126",
+  "phone": "3054440808",
+  "doctors": [
+    "Dr. Grisel Martos Meet",
+    "Dr. Martos Get Your",
+    "Dr. Ismael Khouly"
+  ],
+  "pages": [
+    "https://www.mysmilemiami.com",
+    "https://www.mysmilemiami.com/contact/",
+    "https://www.mysmilemiami.com/about-us/"
+  ],
+  "error": null
+}

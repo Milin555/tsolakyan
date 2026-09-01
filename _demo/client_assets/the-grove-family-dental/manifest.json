@@ -1,0 +1,15 @@
+{
+  "slug": "the-grove-family-dental",
+  "website": "https://grovedentalaz.com",
+  "heroes": [
+    {
+      "file": "hero-1.jpg",
+      "src": "https://images.unsplash.com/photo-1704455306251-b4634215d98f?ixid=M3w0MzUxNjF8MHwxfHNlYXJjaHw2fHxkZW50YWwlMjBjbGluaWN8ZW58MHx8fHwxNzUyNjcwODkyfDA&ixlib=rb-4.1.0&orientation=landscape?fit=crop&crop=entropy%2Cfaces&auto=format%2Ccompress&w=1280",
+      "w": 1280,
+      "h": 853
+    }
+  ],
+  "people": [],
+  "address": null,
+  "error": null
+}

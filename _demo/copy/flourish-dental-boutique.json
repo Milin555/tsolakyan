@@ -1,0 +1,21 @@
+{
+  "slug": "flourish-dental-boutique",
+  "rank": 16,
+  "practice": "Flourish Dental Boutique",
+  "meta_title": "Flourish Dental Boutique | Holistic dentistry in Richardson and Frisco",
+  "meta_desc": "Holistic and biological dentistry in Richardson and Frisco, Texas. SMART amalgam removal, tongue-tie revision and sedation with Dr. Toni Engram.",
+  "hero_h1": "Holistic dentistry in Richardson and Frisco",
+  "hero_sub": "Biological dentistry led by Dr. Toni Engram, now with a second Texas location in Frisco.",
+  "cta_primary": "Book a consultation",
+  "cta_secondary": "See our approach",
+  "about_heading": "Holistic care in Richardson and Frisco",
+  "about_body": "Flourish Dental Boutique is a holistic and biological dental practice led by Dr. Toni Engram. The focus is on dentistry that accounts for the whole patient, from the materials used to the way treatment is planned.\n\nPatients are now seen in Richardson and in Frisco. Both locations offer the same care: SMART amalgam removal, tongue-tie revision and sedation for the patients who need it.",
+  "services": [
+    {"name": "Holistic and biological dentistry", "blurb": "Treatment planned around the whole patient, not just the tooth in front of us."},
+    {"name": "SMART amalgam removal", "blurb": "Safe mercury amalgam removal following the SMART protocol, with protection throughout."},
+    {"name": "Tongue-tie revision", "blurb": "Assessment and revision of tongue-tie for infants, children and adults."},
+    {"name": "Sedation dentistry", "blurb": "Sedation options for patients who find dental treatment difficult to sit through."}
+  ],
+  "footer_tagline": "Holistic and biological dentistry in Richardson and Frisco, Texas.",
+  "why_this_angle": "Led on the holistic specialty and put both cities in the headline so the Frisco expansion from growth_trigger reads as one brand rather than two practices."
+}

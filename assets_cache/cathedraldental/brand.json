@@ -1,0 +1,68 @@
+{
+  "_schema": 3,
+  "username": "cathedraldental",
+  "lead_name": "C a t h e d r a l  D e n t a l",
+  "website": "https://linktr.ee/CathedralDental",
+  "country": "United Kingdom",
+  "reachable": false,
+  "final_url": "",
+  "name": "C a t h e d r a l D e n t a l",
+  "tagline": "Award Winning Dental Practice in Bury St Edmunds SUFFOLK Invisalign•Bonding•Implants• Payment plans available Open evenings & weekends",
+  "phone": "+441284705637",
+  "email": "info@cathedraldental.co.uk",
+  "address": "",
+  "services": [
+    "Dental Implants",
+    "Invisalign",
+    "Composite Bonding"
+  ],
+  "primary": "",
+  "accent": "",
+  "colour_source": "",
+  "logo_file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\cathedraldental\\logo.jpg",
+  "logo_w": 320,
+  "logo_h": 320,
+  "logo_source": "instagram-avatar",
+  "logo_is_dark": false,
+  "logo_alpha": 0.0,
+  "hero_file": "",
+  "hero_w": 0,
+  "hero_h": 0,
+  "photos": [
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\cathedraldental\\ig0.jpg",
+      "url": "https://instagram.famd21-1.fna.fbcdn.net/v/t51.82787-15/671832892_18579763375028418_4080709631941204049_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.famd21-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gFEurYUqoMuXsYlZVc9gqo6Cuc__BsSuNladFQA6AghDASwqsR7j19na2PZLaZ8ELbxk1dWQDTx3owJeb61MeL4&_nc_ohc=xb7x2XvLHVQQ7kNvwGGUf4F&_nc_gid=0OrwM7qcKYEE4MH6R2VOaw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQHsZh33-VetB147UPpzt_WhwJxqQa5sqA8Q1NWf47DqGg&oe=6A8F95B6&_nc_sid=8b3546",
+      "w": 1080,
+      "h": 1350,
+      "source": "instagram"
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\cathedraldental\\ig1.jpg",
+      "url": "https://instagram.famd21-1.fna.fbcdn.net/v/t51.82787-15/772955325_18614568016028418_8189564882425385572_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=instagram.famd21-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gFEurYUqoMuXsYlZVc9gqo6Cuc__BsSuNladFQA6AghDASwqsR7j19na2PZLaZ8ELbxk1dWQDTx3owJeb61MeL4&_nc_ohc=iCAn7vdcLuEQ7kNvwGvXGVz&_nc_gid=0OrwM7qcKYEE4MH6R2VOaw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQGEAOdPRk9N1lOuxuj9vxoZZCPeigz08HWbcSYIMj_nVw&oe=6A8FA26B&_nc_sid=8b3546",
+      "w": 1080,
+      "h": 1350,
+      "source": "instagram"
+    }
+  ],
+  "usable_images": 2,
+  "instagram_used": true,
+  "notes": [
+    "website is a link-in-bio hop (linktr.ee), not their own site - building from Instagram only",
+    "phone from lead CSV",
+    "email from lead CSV",
+    "name from lead CSV",
+    "no logo candidate downloaded",
+    "no non-neutral colour found on site",
+    "tagline from Instagram bio",
+    "services from Instagram bio",
+    "logo from Instagram avatar (320x320, flat/logo-like)",
+    "instagram supplied 2 photo(s)"
+  ],
+  "segment": "link_in_bio",
+  "scraped_at": "2026-08-22T14:55:28+00:00",
+  "colour_candidates": [],
+  "ig_followers": 4376,
+  "logo_url": "https://instagram.famd21-1.fna.fbcdn.net/v/t51.82787-19/670419065_18579767434028418_3561386459814086580_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44OTcuYzIifQ&_nc_ht=instagram.famd21-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gFEurYUqoMuXsYlZVc9gqo6Cuc__BsSuNladFQA6AghDASwqsR7j19na2PZLaZ8ELbxk1dWQDTx3owJeb61MeL4&_nc_ohc=iHu_5X8zyWUQ7kNvwHadkFj&_nc_gid=0OrwM7qcKYEE4MH6R2VOaw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQHvCk9fAxWVLk4CkxQPLNBPu_xs3wF94Dxn-DUB2gv26A&oe=6A8F9B09&_nc_sid=8b3546",
+  "logo_is_photo": false,
+  "logo_colours": 10
+}

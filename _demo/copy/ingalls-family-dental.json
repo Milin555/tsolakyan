@@ -1,0 +1,21 @@
+{
+  "slug": "ingalls-family-dental",
+  "rank": 20,
+  "practice": "Ingalls Family Dental",
+  "meta_title": "Ingalls Family Dental | Same-day dentistry in Pendleton, Indiana",
+  "meta_desc": "General, cosmetic and implant dentistry in Pendleton, Indiana, with same-day treatment. Book with Dr. Preet Kulaar at Ingalls Family Dental.",
+  "hero_h1": "Same-day dentistry in Pendleton, Indiana",
+  "hero_sub": "A new family practice from Dr. Preet Kulaar, with much of the work finished in one visit.",
+  "cta_primary": "Book an appointment",
+  "cta_secondary": "See our services",
+  "about_heading": "A new family practice in Pendleton",
+  "about_body": "Ingalls Family Dental is a new practice in Pendleton, Indiana, owned by Dr. Preet Kulaar. It was built as a general dental home for local families, with cosmetic and implant treatment available in the same place.\n\nSame-day dentistry means much of that work can be finished while you are in the chair, so a repaired or replaced tooth takes fewer appointments and less time away from work.",
+  "services": [
+    {"name": "General dentistry", "blurb": "Checkups, cleanings and everyday treatment for every member of the family."},
+    {"name": "Same-day dentistry", "blurb": "Treatment completed in a single visit where the case allows it."},
+    {"name": "Cosmetic dentistry", "blurb": "Treatment to change the shape, colour and alignment of the front teeth."},
+    {"name": "Dental implants", "blurb": "Fixed replacements for missing teeth, restored here in Pendleton."}
+  ],
+  "footer_tagline": "General, cosmetic and implant dentistry in Pendleton, Indiana.",
+  "why_this_angle": "Led on same-day dentistry from the specialty field and framed the practice as new, matching the January launch in growth_trigger without quoting patient numbers."
+}

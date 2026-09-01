@@ -1,0 +1,47 @@
+slug=waimea-dental-studio replacements=97 copy=True files_changed=22 hero=4 hero_src=client portraits=2 faces=2 logos=2 pruned=17 saved_mb=28.1 imgs=1 size_mb=16.2 built=True
+slug=art-of-aesthetics-dental-studio replacements=95 copy=True files_changed=22 hero=4 hero_src=client portraits=1 faces=1 logos=2 pruned=17 saved_mb=32.4 imgs=4 size_mb=16.2 built=True
+slug=veneer-school replacements=105 copy=True files_changed=22 hero=4 hero_src=client portraits=0 faces=0 logos=2 pruned=17 saved_mb=28.8 imgs=2 size_mb=16.2 built=True
+slug=smilesketch-vegas replacements=99 copy=True files_changed=22 hero=4 hero_src=client portraits=3 faces=3 logos=2 pruned=17 saved_mb=31.4 imgs=2 size_mb=16.2 built=True
+slug=hampshire-meadow-family-pediatric replacements=99 copy=True files_changed=22 hero=4 hero_src=client portraits=0 faces=0 logos=2 pruned=17 saved_mb=28.4 imgs=1 size_mb=16.3 built=True
+slug=cosmetic-dentistry-of-san-antonio replacements=99 copy=True files_changed=22 hero=4 hero_src=client portraits=3 faces=3 logos=2 pruned=17 saved_mb=28.1 imgs=1 size_mb=16.0 built=True
+slug=the-grove-family-dental replacements=96 copy=True files_changed=22 hero=4 hero_src=client portraits=0 faces=0 logos=2 pruned=17 saved_mb=28.4 imgs=1 size_mb=16.1 built=True
+slug=my-smile-miami replacements=99 copy=True files_changed=22 hero=4 hero_src=client portraits=3 faces=3 logos=2 pruned=17 saved_mb=27.9 imgs=0 size_mb=16.2 built=True
+slug=ocean-vibe-dental replacements=97 copy=True files_changed=22 hero=4 hero_src=client portraits=1 faces=1 logos=2 pruned=17 saved_mb=28.4 imgs=1 size_mb=15.9 built=True
+slug=circle-c-dental replacements=96 copy=True files_changed=22 hero=4 hero_src=client portraits=2 faces=2 logos=2 pruned=17 saved_mb=27.9 imgs=0 size_mb=16.2 built=True
+slug=austin-cosmetic-implant-dentistry replacements=97 copy=True files_changed=22 hero=4 hero_src=client portraits=3 faces=3 logos=2 pruned=17 saved_mb=27.9 imgs=0 size_mb=16.2 built=True
+slug=brickell-avenue-dentistry replacements=94 copy=True files_changed=22 hero=4 hero_src=client portraits=0 faces=0 logos=2 pruned=17 saved_mb=28.4 imgs=1 size_mb=16.1 built=True
+slug=diamond-dental-cookstown replacements=94 copy=True files_changed=22 hero=4 hero_src=client portraits=2 faces=2 logos=2 pruned=17 saved_mb=27.9 imgs=0 size_mb=16.1 built=True
+slug=esthetique-dentistry-of-ashburn replacements=99 copy=True files_changed=22 hero=4 hero_src=stock portraits=3 faces=3 logos=2 pruned=17 saved_mb=27.9 imgs=0 size_mb=16.2 built=True
+slug=rise-modern-dentistry replacements=96 copy=True files_changed=22 hero=4 hero_src=client portraits=3 faces=3 logos=2 pruned=17 saved_mb=28.2 imgs=1 size_mb=16.1 built=True
+slug=flourish-dental-boutique replacements=95 copy=True files_changed=22 hero=4 hero_src=client portraits=3 faces=3 logos=2 pruned=17 saved_mb=27.9 imgs=0 size_mb=16.1 built=True
+slug=smile-first-pediatric-dentistry replacements=103 copy=True files_changed=22 hero=4 hero_src=stock portraits=3 faces=3 logos=2 pruned=17 saved_mb=27.9 imgs=0 size_mb=16.1 built=True
+slug=didcot-dental-studio replacements=93 copy=True files_changed=22 hero=4 hero_src=stock portraits=0 faces=0 logos=2 pruned=17 saved_mb=28.4 imgs=1 size_mb=16.2 built=True
+slug=adore-dental replacements=95 copy=True files_changed=22 hero=4 hero_src=client portraits=0 faces=0 logos=2 pruned=17 saved_mb=28.9 imgs=2 size_mb=16.1 built=True
+slug=ingalls-family-dental replacements=97 copy=True files_changed=22 hero=4 hero_src=client portraits=1 faces=1 logos=2 pruned=17 saved_mb=28.4 imgs=1 size_mb=16.2 built=True
+
+built 20 demo(s)
+=== VERIFY ===
+ 1 waimea-dental-studio                 PASS
+ 2 art-of-aesthetics-dental-studio      FAIL x1
+      17 directions target this practice: apply.html:153 South Lasky Dr. Suite 5, Beverly Hil; booking.html:153 South Lasky Dr. Suite 5, Beverly Hil
+ 3 veneer-school                        PASS
+ 4 smilesketch-vegas                    PASS
+ 5 hampshire-meadow-family-pediatric    PASS
+ 6 cosmetic-dentistry-of-san-antonio    PASS
+ 7 the-grove-family-dental              PASS
+ 8 my-smile-miami                       PASS
+ 9 ocean-vibe-dental                    PASS
+10 circle-c-dental                      PASS
+11 austin-cosmetic-implant-dentistry    PASS
+12 brickell-avenue-dentistry            PASS
+13 diamond-dental-cookstown             PASS
+14 esthetique-dentistry-of-ashburn      PASS
+15 rise-modern-dentistry                PASS
+16 flourish-dental-boutique             PASS
+17 smile-first-pediatric-dentistry      PASS
+18 didcot-dental-studio                 PASS
+19 adore-dental                         PASS
+20 ingalls-family-dental                PASS
+
+1 failing check(s) across 20 demo(s)
+ALL_DONE

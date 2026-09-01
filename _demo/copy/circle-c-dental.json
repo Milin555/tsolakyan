@@ -1,0 +1,33 @@
+{
+  "slug": "circle-c-dental",
+  "rank": 10,
+  "practice": "Circle C Dental",
+  "meta_title": "Circle C Dental | General and cosmetic dentistry in Austin, TX",
+  "meta_desc": "General and cosmetic dentistry in suburban Austin, TX, with Dr. Blake Mulgrew handling routine care and cosmetic work in one practice.",
+  "hero_h1": "General and cosmetic dentistry in Austin",
+  "hero_sub": "Routine care and cosmetic treatment with Dr. Blake Mulgrew, in one suburban Austin practice.",
+  "cta_primary": "Book an appointment",
+  "cta_secondary": "See our services",
+  "about_heading": "One dentist, routine care and cosmetic work",
+  "about_body": "Circle C Dental is Dr. Blake Mulgrew's practice in suburban Austin, covering general dentistry and cosmetic treatment for people who live nearby.\n\nEveryday care and cosmetic work are handled by the same dentist, so a checkup, a repair and a change to how your smile looks are part of one conversation rather than a set of referrals.",
+  "services": [
+    {
+      "name": "General dentistry",
+      "blurb": "Checkups, cleanings and everyday treatment for adults and children in the neighborhood."
+    },
+    {
+      "name": "Cosmetic dentistry",
+      "blurb": "Treatment focused on the appearance of your teeth, discussed before anything starts."
+    },
+    {
+      "name": "New patient visits",
+      "blurb": "A first appointment with time to look properly and explain what you actually need."
+    },
+    {
+      "name": "Smile consultations",
+      "blurb": "A sit-down about what you would change, with the options and costs set out plainly."
+    }
+  ],
+  "footer_tagline": "General and cosmetic dentistry in suburban Austin, Texas.",
+  "why_this_angle": "The record is thin beyond a general and cosmetic specialty, so I leaned on the suburban Austin, owner-dentist positioning in city and role and kept every claim to what a one-dentist practice can honestly say."
+}

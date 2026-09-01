@@ -1,0 +1,33 @@
+{
+  "slug": "hampshire-meadow-family-pediatric",
+  "rank": 5,
+  "practice": "Hampshire Meadow Family & Pediatric Dentistry",
+  "meta_title": "Hampshire Meadow Family & Pediatric Dentistry | Hadley, Massachusetts",
+  "meta_desc": "Family, pediatric and special-needs dentistry in Hadley, Massachusetts, now seeing patients at our East Street office.",
+  "hero_h1": "Family and pediatric dentistry in Hadley",
+  "hero_sub": "One practice for children, parents and grandparents, in our new East Street office.",
+  "cta_primary": "Book an appointment",
+  "cta_secondary": "See the new office",
+  "about_heading": "A new home for Hampshire Meadow",
+  "about_body": "Dr. Cyrus Safizadeh and Dr. Noelle Nubani built Hampshire Meadow around families, so that children, parents and grandparents are all cared for in the same place.\n\nThe practice now works from a new office on East Street in Hadley, with pediatric care alongside board-certified pediatric dentist Dr. Europa Yang.",
+  "services": [
+    {
+      "name": "Family dentistry",
+      "blurb": "Check-ups, cleanings and restorative care for adults and children in one practice."
+    },
+    {
+      "name": "Pediatric dentistry",
+      "blurb": "Children's dentistry with a board-certified pediatric dentist on the team."
+    },
+    {
+      "name": "Special-needs care",
+      "blurb": "Unhurried appointments for patients who need extra time, space or support."
+    },
+    {
+      "name": "Preventive care",
+      "blurb": "Regular visits that keep small problems small, from the first tooth onward."
+    }
+  ],
+  "footer_tagline": "Family, pediatric and special-needs dentistry in Hadley, MA.",
+  "why_this_angle": "Anchored the page on the move into the new Hadley facility from growth_trigger, which also settles the two-address contradiction in website_weaknesses, and drew all four services from the family, pediatric and special-needs specialty string."
+}

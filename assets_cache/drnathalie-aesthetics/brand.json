@@ -1,0 +1,111 @@
+{
+  "_schema": 3,
+  "username": "drnathalie.aesthetics",
+  "lead_name": "drnathalie.aesthetics",
+  "website": "http://drnathalieaesthetics.com/",
+  "country": "United Kingdom",
+  "reachable": true,
+  "final_url": "https://drnathalieaesthetics.com/",
+  "name": "Dr Nathalie Aesthetics",
+  "tagline": "Dr Nathalie is a dentist based in West London.",
+  "phone": "+442088456762",
+  "email": "filler@godaddy.com",
+  "address": "",
+  "services": [],
+  "primary": "#b9844d",
+  "accent": "#ffff00",
+  "colour_source": "theme-color",
+  "logo_file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drnathalie-aesthetics\\logo.png",
+  "logo_w": 180,
+  "logo_h": 180,
+  "logo_source": "apple-touch-icon",
+  "logo_is_dark": true,
+  "logo_alpha": 0.0,
+  "hero_file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drnathalie-aesthetics\\photo0.jpg",
+  "hero_w": 2160,
+  "hero_h": 1440,
+  "photos": [
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drnathalie-aesthetics\\photo0.jpg",
+      "url": "https://img1.wsimg.com/isteam/stock/85705/:/rs=w:2301,m",
+      "w": 2160,
+      "h": 1440
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drnathalie-aesthetics\\photo1.jpg",
+      "url": "https://img1.wsimg.com/isteam/stock/85705/:/rs=w:2558,m",
+      "w": 2160,
+      "h": 1440
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drnathalie-aesthetics\\photo2.jpg",
+      "url": "https://img1.wsimg.com/isteam/stock/85705/:/rs=w:3069,m",
+      "w": 2160,
+      "h": 1440
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drnathalie-aesthetics\\photo3.jpg",
+      "url": "https://img1.wsimg.com/isteam/stock/85705/:/rs=w:3837,m",
+      "w": 2160,
+      "h": 1440
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drnathalie-aesthetics\\photo4.jpg",
+      "url": "https://img1.wsimg.com/isteam/stock/85705/:/rs=w:3070,m",
+      "w": 2160,
+      "h": 1440
+    },
+    {
+      "file": "C:\\Users\\Promise\\Desktop\\outreach\\assets_cache\\drnathalie-aesthetics\\photo5.jpg",
+      "url": "https://img1.wsimg.com/isteam/stock/85705/:/rs=w:4605,m",
+      "w": 2160,
+      "h": 1440
+    }
+  ],
+  "usable_images": 6,
+  "instagram_used": false,
+  "notes": [
+    "phone from lead CSV"
+  ],
+  "segment": "own_site",
+  "scraped_at": "2026-08-22T15:03:25+00:00",
+  "ownership_evidence": [
+    "the site links to the lead's Instagram account",
+    "domain matches the practice or account name"
+  ],
+  "logo_url": "https://img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:180,h:180,m",
+  "colour_candidates": [
+    {
+      "hex": "#b9844d",
+      "weight": 42
+    },
+    {
+      "hex": "#9c6c3b",
+      "weight": 10
+    },
+    {
+      "hex": "#ffff00",
+      "weight": 3
+    },
+    {
+      "hex": "#db9d5c",
+      "weight": 3
+    },
+    {
+      "hex": "#5d4123",
+      "weight": 2
+    },
+    {
+      "hex": "#412c16",
+      "weight": 2
+    },
+    {
+      "hex": "#966736",
+      "weight": 2
+    },
+    {
+      "hex": "#553a1f",
+      "weight": 2
+    }
+  ]
+}
