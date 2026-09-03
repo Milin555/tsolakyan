@@ -11,3 +11,7 @@ __pycache__/
 *.pyc
 assets_cache/
 .DS_Store
+
+# working dirs
+_live_fix/
+_demo_audit_tmp/

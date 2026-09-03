@@ -2452,5 +2452,824 @@
       "scraped_at": "2026-09-01T09:00:30+00:00",
       "instagram_status": "instagram refuses this profile to anonymous clients (400). Set IG_SESSIONID to read it"
     }
+  },
+  {
+    "username": "lloyd-soman-dds",
+    "name": "Lloyd Soman Dds",
+    "email": "lloyd.soman@lloydsomandds.com",
+    "phone": "",
+    "country": "United States",
+    "website": "https://lloydsomandds.com",
+    "reasons": [
+      "LOGO MISSING: no logo could be downloaded from their site"
+    ],
+    "reason_codes": [
+      "logo"
+    ],
+    "checked_at": "2026-09-01T15:41:15+00:00",
+    "segment": "own_site",
+    "scraped_name": "lloydsomandds",
+    "final_url": "https://lloydsomandds.com/",
+    "slug": "lloydsomandds",
+    "template": "Gary Solnit Dentist",
+    "build_dir": "/Users/milin/outreach/demo_builds/lloydsomandds",
+    "measured": {
+      "logo_px": "0x0",
+      "logo_source": null,
+      "logo_is_photo": null,
+      "usable_images": 2,
+      "primary": "#f5c255",
+      "accent": "#4b96a6",
+      "colour_source": "css",
+      "contrast": {
+        "contrast_text_on_white": 10.12,
+        "contrast_white_on_hero": 10.12,
+        "contrast_accent_on_white": 3.15,
+        "contrast_accent_on_hero": 3.22
+      },
+      "reachable": true
+    },
+    "brand": {
+      "_schema": 3,
+      "username": "lloyd-soman-dds",
+      "lead_name": "Lloyd Soman Dds",
+      "website": "https://lloydsomandds.com",
+      "country": "United States",
+      "reachable": true,
+      "final_url": "https://lloydsomandds.com/",
+      "name": "lloydsomandds",
+      "tagline": "Home Page",
+      "phone": "212-757-1515",
+      "email": "Drlsoman@aol.com",
+      "address": "",
+      "services": [
+        "Dental Implants",
+        "Periodontics"
+      ],
+      "primary": "#f5c255",
+      "accent": "#4b96a6",
+      "colour_source": "css",
+      "logo_file": "",
+      "logo_w": 0,
+      "logo_h": 0,
+      "logo_source": "",
+      "logo_is_dark": false,
+      "logo_alpha": 0.0,
+      "hero_file": "/Users/milin/outreach/assets_cache/lloyd-soman-dds/photo0.jpg",
+      "hero_w": 886,
+      "hero_h": 556,
+      "photos": [
+        {
+          "file": "/Users/milin/outreach/assets_cache/lloyd-soman-dds/photo0.jpg",
+          "url": "https://img1.wsimg.com/isteam/ip/43308685-4c6d-434b-acda-c8c54de989fd/4b71e259c3cdfb9ecf85a5a297b81f04.jpg",
+          "w": 886,
+          "h": 556
+        },
+        {
+          "file": "/Users/milin/outreach/assets_cache/lloyd-soman-dds/photo1.jpg",
+          "url": "https://img1.wsimg.com/isteam/ip/43308685-4c6d-434b-acda-c8c54de989fd/57af34a94837d0ab6638e33cc4cdecf7.jpg",
+          "w": 871,
+          "h": 496
+        }
+      ],
+      "usable_images": 2,
+      "instagram_used": true,
+      "notes": [
+        "no logo candidate downloaded",
+        "instagram: instagram account no longer exists under this username (404) - the lead data is stale"
+      ],
+      "segment": "own_site",
+      "scraped_at": "2026-09-01T15:41:11+00:00",
+      "ownership_evidence": [
+        "lead's email domain is this website's domain",
+        "domain matches the practice or account name"
+      ],
+      "instagram_status": "instagram account no longer exists under this username (404) - the lead data is stale"
+    }
+  },
+  {
+    "username": "churchill-dentistry",
+    "name": "Churchill Dentistry",
+    "email": "wendy@churchilldentistry.com",
+    "phone": "",
+    "country": "United States",
+    "website": "https://churchilldentistry.com",
+    "reasons": [
+      "NOT ENOUGH IMAGES: 1 usable image(s) found on their site or Instagram, need 2"
+    ],
+    "reason_codes": [
+      "images"
+    ],
+    "checked_at": "2026-09-01T15:41:32+00:00",
+    "segment": "own_site",
+    "scraped_name": "Tampa Dentist",
+    "final_url": "https://churchilldentistry.com/",
+    "slug": "tampa-dentist",
+    "template": "Gary Solnit Dentist",
+    "build_dir": "/Users/milin/outreach/demo_builds/tampa-dentist",
+    "measured": {
+      "logo_px": "224x264",
+      "logo_source": "img-logo",
+      "logo_is_photo": null,
+      "usable_images": 1,
+      "primary": "#e4decf",
+      "accent": "#3792a4",
+      "colour_source": "css",
+      "contrast": {
+        "contrast_text_on_white": 10.41,
+        "contrast_white_on_hero": 10.41,
+        "contrast_accent_on_white": 3.2,
+        "contrast_accent_on_hero": 3.26
+      },
+      "reachable": true
+    },
+    "brand": {
+      "_schema": 3,
+      "username": "churchill-dentistry",
+      "lead_name": "Churchill Dentistry",
+      "website": "https://churchilldentistry.com",
+      "country": "United States",
+      "reachable": true,
+      "final_url": "https://churchilldentistry.com/",
+      "name": "Tampa Dentist",
+      "tagline": "Welcome to Churchill Dentistry.",
+      "phone": "813.964.8585",
+      "email": "wendy@churchilldentistry.com",
+      "address": "",
+      "services": [],
+      "primary": "#e4decf",
+      "accent": "#3792a4",
+      "colour_source": "css",
+      "logo_file": "/Users/milin/outreach/assets_cache/churchill-dentistry/logo.png",
+      "logo_w": 224,
+      "logo_h": 264,
+      "logo_source": "img-logo",
+      "logo_is_dark": false,
+      "logo_alpha": 0.677,
+      "hero_file": "",
+      "hero_w": 0,
+      "hero_h": 0,
+      "photos": [
+        {
+          "file": "/Users/milin/outreach/assets_cache/churchill-dentistry/photo0.jpg",
+          "url": "https://churchilldentistry.com/images/cd_banner_image_woman_v2.jpg",
+          "w": 686,
+          "h": 327
+        }
+      ],
+      "usable_images": 1,
+      "instagram_used": true,
+      "notes": [
+        "email from lead CSV",
+        "instagram: instagram account no longer exists under this username (404) - the lead data is stale"
+      ],
+      "segment": "own_site",
+      "scraped_at": "2026-09-01T15:41:24+00:00",
+      "ownership_evidence": [
+        "lead's email domain is this website's domain",
+        "domain matches the practice or account name"
+      ],
+      "logo_url": "https://churchilldentistry.com/images/cd_logo_text_and-shell.png",
+      "instagram_status": "instagram account no longer exists under this username (404) - the lead data is stale"
+    }
+  },
+  {
+    "username": "jersey-dental-group",
+    "name": "Jersey Dental Group",
+    "email": "asad@jerseydentalgroup.com",
+    "phone": "",
+    "country": "United States",
+    "website": "https://jerseydentalgroup.com",
+    "reasons": [
+      "LOGO MISSING: no logo could be downloaded from their site",
+      "COLOUR EXTRACTION FAILED: no non-neutral colour found (site is pure white/black/grey or CSS unreadable)",
+      "NOT ENOUGH IMAGES: 0 usable image(s) found on their site or Instagram, need 2"
+    ],
+    "reason_codes": [
+      "colour_extraction",
+      "images",
+      "logo"
+    ],
+    "checked_at": "2026-09-01T15:41:38+00:00",
+    "segment": "own_site",
+    "scraped_name": "Jersey Dental Group",
+    "final_url": "https://www.thejerseydentalgroup.com/",
+    "slug": "jersey-dental-group",
+    "template": "Ritter Ramsey Dentist",
+    "build_dir": "/Users/milin/outreach/demo_builds/jersey-dental-group",
+    "measured": {
+      "logo_px": "0x0",
+      "logo_source": null,
+      "logo_is_photo": null,
+      "usable_images": 0,
+      "primary": null,
+      "accent": null,
+      "colour_source": null,
+      "contrast": {
+        "contrast_text_on_white": 10.05,
+        "contrast_white_on_hero": 10.05,
+        "contrast_accent_on_white": 3.17,
+        "contrast_accent_on_hero": 3.17
+      },
+      "reachable": true
+    },
+    "brand": {
+      "_schema": 3,
+      "username": "jersey-dental-group",
+      "lead_name": "Jersey Dental Group",
+      "website": "https://jerseydentalgroup.com",
+      "country": "United States",
+      "reachable": true,
+      "final_url": "https://www.thejerseydentalgroup.com/",
+      "name": "Jersey Dental Group",
+      "tagline": "",
+      "phone": "",
+      "email": "asad@jerseydentalgroup.com",
+      "address": "",
+      "services": [],
+      "primary": "",
+      "accent": "",
+      "colour_source": "",
+      "logo_file": "",
+      "logo_w": 0,
+      "logo_h": 0,
+      "logo_source": "",
+      "logo_is_dark": false,
+      "logo_alpha": 0.0,
+      "hero_file": "",
+      "hero_w": 0,
+      "hero_h": 0,
+      "photos": [],
+      "usable_images": 0,
+      "instagram_used": true,
+      "notes": [
+        "site title is a CMS default ('') - falling back to the lead record",
+        "meta description is a CMS default ('') - dropped",
+        "email from lead CSV",
+        "name from lead CSV",
+        "no logo candidate downloaded",
+        "no non-neutral colour found on site",
+        "instagram: instagram account no longer exists under this username (404) - the lead data is stale"
+      ],
+      "segment": "own_site",
+      "scraped_at": "2026-09-01T15:41:32+00:00",
+      "ownership_evidence": [
+        "domain matches the practice or account name"
+      ],
+      "instagram_status": "instagram account no longer exists under this username (404) - the lead data is stale"
+    }
+  },
+  {
+    "username": "ian-barwick-dds",
+    "name": "Ian Barwick Dds",
+    "email": "ian@ianbarwickdmd.com",
+    "phone": "",
+    "country": "United States",
+    "website": "https://ianbarwickdmd.com",
+    "reasons": [
+      "LOGO MISSING: no logo could be downloaded from their site",
+      "COLOUR EXTRACTION FAILED: no non-neutral colour found (site is pure white/black/grey or CSS unreadable)",
+      "NOT ENOUGH IMAGES: 0 usable image(s) found on their site or Instagram, need 2"
+    ],
+    "reason_codes": [
+      "colour_extraction",
+      "images",
+      "logo"
+    ],
+    "checked_at": "2026-09-01T15:41:42+00:00",
+    "segment": "own_site",
+    "scraped_name": "Ian Barwick Dds",
+    "final_url": "https://ianbarwickdmd.com/",
+    "slug": "ian-barwick-dds",
+    "template": "Ritter Ramsey Dentist",
+    "build_dir": "/Users/milin/outreach/demo_builds/ian-barwick-dds",
+    "measured": {
+      "logo_px": "0x0",
+      "logo_source": null,
+      "logo_is_photo": null,
+      "usable_images": 0,
+      "primary": null,
+      "accent": null,
+      "colour_source": null,
+      "contrast": {
+        "contrast_text_on_white": 10.05,
+        "contrast_white_on_hero": 10.05,
+        "contrast_accent_on_white": 3.17,
+        "contrast_accent_on_hero": 3.17
+      },
+      "reachable": true
+    },
+    "brand": {
+      "_schema": 3,
+      "username": "ian-barwick-dds",
+      "lead_name": "Ian Barwick Dds",
+      "website": "https://ianbarwickdmd.com",
+      "country": "United States",
+      "reachable": true,
+      "final_url": "https://ianbarwickdmd.com/",
+      "name": "Ian Barwick Dds",
+      "tagline": "",
+      "phone": "",
+      "email": "ian@ianbarwickdmd.com",
+      "address": "",
+      "services": [],
+      "primary": "",
+      "accent": "",
+      "colour_source": "",
+      "logo_file": "",
+      "logo_w": 0,
+      "logo_h": 0,
+      "logo_source": "",
+      "logo_is_dark": false,
+      "logo_alpha": 0.0,
+      "hero_file": "",
+      "hero_w": 0,
+      "hero_h": 0,
+      "photos": [],
+      "usable_images": 0,
+      "instagram_used": true,
+      "notes": [
+        "site title is a CMS default ('') - falling back to the lead record",
+        "meta description is a CMS default ('') - dropped",
+        "email from lead CSV",
+        "name from lead CSV",
+        "no logo candidate downloaded",
+        "no non-neutral colour found on site",
+        "instagram: instagram account no longer exists under this username (404) - the lead data is stale"
+      ],
+      "segment": "own_site",
+      "scraped_at": "2026-09-01T15:41:38+00:00",
+      "ownership_evidence": [
+        "lead's email domain is this website's domain",
+        "domain matches the practice or account name"
+      ],
+      "instagram_status": "instagram account no longer exists under this username (404) - the lead data is stale"
+    }
+  },
+  {
+    "username": "all-care-dental",
+    "name": "All Care Dental",
+    "email": "dpennigton@allcare.com",
+    "phone": "",
+    "country": "United States",
+    "website": "https://allcaredental4u.com",
+    "reasons": [
+      "LOGO IS A GENERIC FAVICON ONLY: 0.png at 114x114px"
+    ],
+    "reason_codes": [
+      "logo"
+    ],
+    "checked_at": "2026-09-01T15:41:52+00:00",
+    "segment": "own_site",
+    "scraped_name": "Allcare Dental",
+    "final_url": "https://allcaredental4u.com/",
+    "slug": "allcare-dental",
+    "template": "Lura Dentist",
+    "build_dir": "/Users/milin/outreach/demo_builds/allcare-dental",
+    "measured": {
+      "logo_px": "114x114",
+      "logo_source": "icon",
+      "logo_is_photo": null,
+      "usable_images": 3,
+      "primary": "#337ab7",
+      "accent": "#3c763d",
+      "colour_source": "css",
+      "contrast": {
+        "contrast_text_on_white": 10.43,
+        "contrast_white_on_hero": 10.43,
+        "contrast_accent_on_white": 3.27,
+        "contrast_accent_on_hero": 3.2
+      },
+      "reachable": true
+    },
+    "brand": {
+      "_schema": 3,
+      "username": "all-care-dental",
+      "lead_name": "All Care Dental",
+      "website": "https://allcaredental4u.com",
+      "country": "United States",
+      "reachable": true,
+      "final_url": "https://allcaredental4u.com/",
+      "name": "Allcare Dental",
+      "tagline": "California Dentists at Allcare Dental are dedicated to cosmetic dentistry such as Exams, Teeth Whitening, Veneers and more.",
+      "phone": "1-855-866-2273",
+      "email": "dpennigton@allcare.com",
+      "address": "",
+      "services": [
+        "Teeth Whitening",
+        "Porcelain Veneers",
+        "Composite Bonding",
+        "Root Canal Treatment",
+        "Crowns & Bridges",
+        "Dentures",
+        "Hygiene & Cleaning",
+        "Cosmetic Dentistry"
+      ],
+      "primary": "#337ab7",
+      "accent": "#3c763d",
+      "colour_source": "css",
+      "logo_file": "/Users/milin/outreach/assets_cache/all-care-dental/logo.png",
+      "logo_w": 114,
+      "logo_h": 114,
+      "logo_source": "icon",
+      "logo_is_dark": true,
+      "logo_alpha": 0.024,
+      "hero_file": "/Users/milin/outreach/assets_cache/all-care-dental/photo0.jpg",
+      "hero_w": 1200,
+      "hero_h": 579,
+      "photos": [
+        {
+          "file": "/Users/milin/outreach/assets_cache/all-care-dental/photo0.jpg",
+          "url": "https://styles.prosites.com/litesite/2280/images/panel2.jpg",
+          "w": 1200,
+          "h": 579
+        },
+        {
+          "file": "/Users/milin/outreach/assets_cache/all-care-dental/photo1.jpg",
+          "url": "https://styles.prosites.com/litesite/2280/images/panel3.jpg",
+          "w": 1200,
+          "h": 579
+        },
+        {
+          "file": "/Users/milin/outreach/assets_cache/all-care-dental/photo2.jpg",
+          "url": "https://styles.prosites.com/litesite/2280/images/panel1.jpg",
+          "w": 1200,
+          "h": 578
+        }
+      ],
+      "usable_images": 3,
+      "instagram_used": false,
+      "notes": [
+        "email from lead CSV"
+      ],
+      "segment": "own_site",
+      "scraped_at": "2026-09-01T15:41:42+00:00",
+      "ownership_evidence": [
+        "domain matches the practice or account name"
+      ],
+      "logo_url": "https://allcaredental4u.com/images/icons/tap/0.png"
+    }
+  },
+  {
+    "username": "lifelike-dental-studio-inc",
+    "name": "Lifelike Dental Studio, Inc.",
+    "email": "chris@lifelikedental.com",
+    "phone": "",
+    "country": "United States",
+    "website": "https://lifelikedentalstudio.com",
+    "reasons": [
+      "NOT ENOUGH IMAGES: 1 usable image(s) found on their site or Instagram, need 2"
+    ],
+    "reason_codes": [
+      "images"
+    ],
+    "checked_at": "2026-09-01T15:42:25+00:00",
+    "segment": "own_site",
+    "scraped_name": "LifeLike Dental Studio",
+    "final_url": "https://lifelikedentalstudio.com/",
+    "slug": "lifelike-dental-studio",
+    "template": "Ritter Ramsey Dentist",
+    "build_dir": "/Users/milin/outreach/demo_builds/lifelike-dental-studio",
+    "measured": {
+      "logo_px": "657x470",
+      "logo_source": "og-image",
+      "logo_is_photo": null,
+      "usable_images": 1,
+      "primary": "#b4846c",
+      "accent": "#348bcf",
+      "colour_source": "logo",
+      "contrast": {
+        "contrast_text_on_white": 10.1,
+        "contrast_white_on_hero": 10.1,
+        "contrast_accent_on_white": 3.15,
+        "contrast_accent_on_hero": 3.21
+      },
+      "reachable": true
+    },
+    "brand": {
+      "_schema": 3,
+      "username": "lifelike-dental-studio-inc",
+      "lead_name": "Lifelike Dental Studio, Inc.",
+      "website": "https://lifelikedentalstudio.com",
+      "country": "United States",
+      "reachable": true,
+      "final_url": "https://lifelikedentalstudio.com/",
+      "name": "LifeLike Dental Studio",
+      "tagline": "",
+      "phone": "",
+      "email": "chris@lifelikedental.com",
+      "address": "",
+      "services": [],
+      "primary": "#b4846c",
+      "accent": "#348bcf",
+      "colour_source": "logo",
+      "logo_file": "/Users/milin/outreach/assets_cache/lifelike-dental-studio-inc/logo.png",
+      "logo_w": 657,
+      "logo_h": 470,
+      "logo_source": "og-image",
+      "logo_is_dark": false,
+      "logo_alpha": 0.023,
+      "hero_file": "",
+      "hero_w": 0,
+      "hero_h": 0,
+      "photos": [
+        {
+          "file": "/Users/milin/outreach/assets_cache/lifelike-dental-studio-inc/photo0.jpg",
+          "url": "https://nebula.wsimg.com/d2420f9de5248bfd330e37c45f507989?AccessKeyId=368201CFF55CD8A8F82A&disposition=0&alloworigin=1",
+          "w": 657,
+          "h": 470
+        }
+      ],
+      "usable_images": 1,
+      "instagram_used": true,
+      "notes": [
+        "meta description is a CMS default ('') - dropped",
+        "email from lead CSV",
+        "instagram: instagram account no longer exists under this username (404) - the lead data is stale"
+      ],
+      "segment": "own_site",
+      "scraped_at": "2026-09-01T15:42:19+00:00",
+      "ownership_evidence": [
+        "domain matches the practice or account name",
+        "scraped business name matches the lead"
+      ],
+      "logo_url": "https://nebula.wsimg.com/d2420f9de5248bfd330e37c45f507989?AccessKeyId=368201CFF55CD8A8F82A&disposition=0&alloworigin=1",
+      "instagram_status": "instagram account no longer exists under this username (404) - the lead data is stale"
+    }
+  },
+  {
+    "username": "bijan-modjtahedi-d-d-s",
+    "name": "Bijan Modjtahedi D.D.S.",
+    "email": "bmdds@toothsleuth.com",
+    "phone": "",
+    "country": "United States",
+    "website": "https://toothsleuth.com",
+    "reasons": [
+      "NOT ENOUGH IMAGES: 1 usable image(s) found on their site or Instagram, need 2"
+    ],
+    "reason_codes": [
+      "images"
+    ],
+    "checked_at": "2026-09-01T15:42:58+00:00",
+    "segment": "own_site",
+    "scraped_name": "Bijan Family Dental Practice",
+    "final_url": "https://toothsleuth.com/",
+    "slug": "bijan-family-dental-practice",
+    "template": "Lura Dentist",
+    "build_dir": "/Users/milin/outreach/demo_builds/bijan-family-dental-practice",
+    "measured": {
+      "logo_px": "2603x516",
+      "logo_source": "img-logo",
+      "logo_is_photo": null,
+      "usable_images": 1,
+      "primary": "#013847",
+      "accent": "#3c763d",
+      "colour_source": "logo",
+      "contrast": {
+        "contrast_text_on_white": 10.39,
+        "contrast_white_on_hero": 10.39,
+        "contrast_accent_on_white": 3.27,
+        "contrast_accent_on_hero": 3.18
+      },
+      "reachable": true
+    },
+    "brand": {
+      "_schema": 3,
+      "username": "bijan-modjtahedi-d-d-s",
+      "lead_name": "Bijan Modjtahedi D.D.S.",
+      "website": "https://toothsleuth.com",
+      "country": "United States",
+      "reachable": true,
+      "final_url": "https://toothsleuth.com/",
+      "name": "Bijan Family Dental Practice",
+      "tagline": "Bijan Family Dental Practice provides the highest standard dental care to patients in the Orange County Area!",
+      "phone": "(714) 421-4494",
+      "email": "bmdds@toothsleuth.com",
+      "address": "",
+      "services": [
+        "Dental Implants",
+        "Invisalign",
+        "Preventive Dentistry",
+        "Cosmetic Dentistry",
+        "Children's Dentistry",
+        "Periodontics",
+        "Oral Surgery",
+        "Sedation Dentistry"
+      ],
+      "primary": "#013847",
+      "accent": "#3c763d",
+      "colour_source": "logo",
+      "logo_file": "/Users/milin/outreach/assets_cache/bijan-modjtahedi-d-d-s/logo.png",
+      "logo_w": 2603,
+      "logo_h": 516,
+      "logo_source": "img-logo",
+      "logo_is_dark": true,
+      "logo_alpha": 0.707,
+      "hero_file": "/Users/milin/outreach/assets_cache/bijan-modjtahedi-d-d-s/photo0.jpg",
+      "hero_w": 973,
+      "hero_h": 489,
+      "photos": [
+        {
+          "file": "/Users/milin/outreach/assets_cache/bijan-modjtahedi-d-d-s/photo0.jpg",
+          "url": "https://toothsleuth.com/tpn/c/C1257/img/ART01-beach-image-welcome.jpg",
+          "w": 973,
+          "h": 489
+        }
+      ],
+      "usable_images": 1,
+      "instagram_used": true,
+      "notes": [
+        "instagram: instagram account no longer exists under this username (404) - the lead data is stale"
+      ],
+      "segment": "own_site",
+      "scraped_at": "2026-09-01T15:42:25+00:00",
+      "ownership_evidence": [
+        "lead's email domain is this website's domain",
+        "the site publishes the lead's email address",
+        "scraped business name matches the lead"
+      ],
+      "logo_url": "https://toothsleuth.com/tpn/c/C1257/img/logo-nav-header.png",
+      "instagram_status": "instagram account no longer exists under this username (404) - the lead data is stale"
+    }
+  },
+  {
+    "username": "david-tillman-dds",
+    "name": "David Tillman Dds",
+    "email": "tillmandds@tillmansmiles.com",
+    "phone": "",
+    "country": "United States",
+    "website": "https://tillmansmiles.com",
+    "reasons": [
+      "NOT ENOUGH IMAGES: 1 usable image(s) found on their site or Instagram, need 2"
+    ],
+    "reason_codes": [
+      "images"
+    ],
+    "checked_at": "2026-09-01T15:43:05+00:00",
+    "segment": "own_site",
+    "scraped_name": "David Tillman",
+    "final_url": "https://www.tillmansmiles.com/",
+    "slug": "david-tillman",
+    "template": "Lura Dentist",
+    "build_dir": "/Users/milin/outreach/demo_builds/david-tillman",
+    "measured": {
+      "logo_px": "268x135",
+      "logo_source": "img-logo",
+      "logo_is_photo": null,
+      "usable_images": 1,
+      "primary": "#657994",
+      "accent": "#669ea1",
+      "colour_source": "css",
+      "contrast": {
+        "contrast_text_on_white": 10.48,
+        "contrast_white_on_hero": 10.48,
+        "contrast_accent_on_white": 3.19,
+        "contrast_accent_on_hero": 3.29
+      },
+      "reachable": true
+    },
+    "brand": {
+      "_schema": 3,
+      "username": "david-tillman-dds",
+      "lead_name": "David Tillman Dds",
+      "website": "https://tillmansmiles.com",
+      "country": "United States",
+      "reachable": true,
+      "final_url": "https://www.tillmansmiles.com/",
+      "name": "David Tillman",
+      "tagline": "FamilyDentistry",
+      "phone": "(817) 870-4746",
+      "email": "mdavidtillman@hotmail.com",
+      "address": "1100 S. Lake St., Fort Worth, TX, 76104",
+      "services": [
+        "Dental Implants",
+        "Teeth Whitening",
+        "Porcelain Veneers",
+        "Invisalign",
+        "Orthodontics",
+        "Root Canal Treatment",
+        "Crowns & Bridges",
+        "Dentures"
+      ],
+      "primary": "#657994",
+      "accent": "#669ea1",
+      "colour_source": "css",
+      "logo_file": "/Users/milin/outreach/assets_cache/david-tillman-dds/logo.png",
+      "logo_w": 268,
+      "logo_h": 135,
+      "logo_source": "img-logo",
+      "logo_is_dark": false,
+      "logo_alpha": 0.741,
+      "hero_file": "",
+      "hero_w": 0,
+      "hero_h": 0,
+      "photos": [
+        {
+          "file": "/Users/milin/outreach/assets_cache/david-tillman-dds/photo0.png",
+          "url": "https://www.tillmansmiles.com/assets/images/family1.png",
+          "w": 481,
+          "h": 490
+        }
+      ],
+      "usable_images": 1,
+      "instagram_used": true,
+      "notes": [
+        "instagram: instagram account no longer exists under this username (404) - the lead data is stale"
+      ],
+      "segment": "own_site",
+      "scraped_at": "2026-09-01T15:42:58+00:00",
+      "ownership_evidence": [
+        "lead's email domain is this website's domain",
+        "domain matches the practice or account name",
+        "scraped business name matches the lead"
+      ],
+      "logo_url": "https://www.tillmansmiles.com/assets/images/footer-logo.png",
+      "instagram_status": "instagram account no longer exists under this username (404) - the lead data is stale"
+    }
+  },
+  {
+    "username": "digital-dental-technology",
+    "name": "Digital Dental Technology",
+    "email": "mike.siegel@digitaldentaltechnology.com",
+    "phone": "",
+    "country": "United States",
+    "website": "https://digitaldentaltechnology.com",
+    "reasons": [
+      "NOT ENOUGH IMAGES: 1 usable image(s) found on their site or Instagram, need 2"
+    ],
+    "reason_codes": [
+      "images"
+    ],
+    "checked_at": "2026-09-01T15:43:39+00:00",
+    "segment": "own_site",
+    "scraped_name": "digitaldentaltechnology",
+    "final_url": "https://digitaldentaltechnology.com/",
+    "slug": "digitaldentaltechnology",
+    "template": "Lura Dentist",
+    "build_dir": "/Users/milin/outreach/demo_builds/digitaldentaltechnology",
+    "measured": {
+      "logo_px": "200x200",
+      "logo_source": "img-logo",
+      "logo_is_photo": null,
+      "usable_images": 1,
+      "primary": "#406782",
+      "accent": "#ffff00",
+      "colour_source": "logo",
+      "contrast": {
+        "contrast_text_on_white": 10.21,
+        "contrast_white_on_hero": 10.21,
+        "contrast_accent_on_white": 3.19,
+        "contrast_accent_on_hero": 3.2
+      },
+      "reachable": true
+    },
+    "brand": {
+      "_schema": 3,
+      "username": "digital-dental-technology",
+      "lead_name": "Digital Dental Technology",
+      "website": "https://digitaldentaltechnology.com",
+      "country": "United States",
+      "reachable": true,
+      "final_url": "https://digitaldentaltechnology.com/",
+      "name": "digitaldentaltechnology",
+      "tagline": "About us",
+      "phone": "+18472535456",
+      "email": "info@dentaltechnology.com",
+      "address": "103 N Arlington Heights Rd, Arlington Heights, IL, 60004",
+      "services": [],
+      "primary": "#406782",
+      "accent": "#ffff00",
+      "colour_source": "logo",
+      "logo_file": "/Users/milin/outreach/assets_cache/digital-dental-technology/logo.png",
+      "logo_w": 200,
+      "logo_h": 200,
+      "logo_source": "img-logo",
+      "logo_is_dark": true,
+      "logo_alpha": 0.414,
+      "hero_file": "/Users/milin/outreach/assets_cache/digital-dental-technology/photo0.jpg",
+      "hero_w": 2160,
+      "hero_h": 1440,
+      "photos": [
+        {
+          "file": "/Users/milin/outreach/assets_cache/digital-dental-technology/photo0.jpg",
+          "url": "https://img1.wsimg.com/isteam/stock/96070",
+          "w": 2160,
+          "h": 1440
+        }
+      ],
+      "usable_images": 1,
+      "instagram_used": true,
+      "notes": [
+        "instagram: instagram account no longer exists under this username (404) - the lead data is stale"
+      ],
+      "segment": "own_site",
+      "scraped_at": "2026-09-01T15:43:37+00:00",
+      "ownership_evidence": [
+        "lead's email domain is this website's domain",
+        "domain matches the practice or account name"
+      ],
+      "logo_url": "https://img1.wsimg.com/isteam/ip/5f585f0b-2836-4480-aab4-ecb5fd7c4336/blob-11d136a.png/:/rs=h:200,cg:true,m/qt=q:95",
+      "instagram_status": "instagram account no longer exists under this username (404) - the lead data is stale"
+    }
   }
 ]

@@ -3,7 +3,6 @@
 Paste these into DMs, contact forms and proposals.
 
 - **Lura Dentist** — Lura Dental - modern clinic
-  https://milin555.github.io/Dr.neo/
 
 - **Modern Smile Center Dentist** — Modern Smile Center
   https://milin555.github.io/modernsmilecenter/
